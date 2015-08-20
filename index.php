@@ -1,5 +1,5 @@
 <META http-equiv="content-type" content="text/html; charset=UTF-8"> 
-<title>怎度网---最有人气的网站</title>
+<title>怎度网</title>
 
 <?php
 /**
